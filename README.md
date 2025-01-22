@@ -140,12 +140,9 @@ cargo build --release --features llm
 ## Support
 
 For technical support:
-- Check the [Documentation](https://docs.fractis.cash)
+- Check the [Documentation](https://fractis.app/docs)
 - Open an issue on GitHub
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ## License
 
